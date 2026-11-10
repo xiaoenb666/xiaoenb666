@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# [lixianyi]
+
+**Master's Student in Software Engineering**  
+**Zhejiang Sci-Tech University, Hangzhou, China**
+
+## About Me
+
+I am currently a Master's student in Software Engineering at Zhejiang Sci-Tech University, China.
+
+## Research Interests
+
+
+## Contact
+
+- **Email:** [lxiane666@163.com]
+- **Affiliation:** Zhejiang Sci-Tech University
+- **Position:** Master's Student
